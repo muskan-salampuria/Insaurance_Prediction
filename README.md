@@ -5,7 +5,7 @@
 ## Approach
  - First Insaurance file in CSV Format is Read.
  - Plotting the graph for features and results using MatplotLib.
- - Then the dataset is splitted into two parts using the columns message and spam: 80% for Training and     20% for Testing.
+ - Then the dataset is splitted into two parts : 80% for Training and     20% for Testing.
  - Then Logistic Regression model is made and then trained by fitting the train dataset.
  - Model can be tested and evaluated to achieve an outcome.
 
