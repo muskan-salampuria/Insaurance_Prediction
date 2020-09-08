@@ -1,5 +1,5 @@
 """
-Insaurance Data using 
+Insurance Data using 
 Logistic Regression 
 """
 import pandas as pd
